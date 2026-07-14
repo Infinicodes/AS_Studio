@@ -1,0 +1,12 @@
+/wedding-studio/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+└── images/
+    ├── hero.jpg
+    ├── portfolio/
+    ├── services/
+    ├── albums/
+    └── testimonials/

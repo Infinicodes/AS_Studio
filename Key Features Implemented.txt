@@ -1,0 +1,10 @@
+Category	Features
+Theme	Dark/Light mode with LocalStorage persistence, smooth transitions
+Animations	Scroll reveal, parallax particles, magnetic buttons, cursor trail, counter animations, card hover effects
+Navigation	Sticky glass header, scroll progress indicator, mobile hamburger menu, smooth scrolling
+Portfolio	Masonry-style grid, category filtering, lightbox viewer, lazy loading
+Services	12 service cards with unique color themes per wedding event type
+Interactive	FAQ accordion, testimonials slider with touch support, contact form validation
+Performance	CSS variables, intersection observers, requestAnimationFrame, lazy loading
+Accessibility	Semantic HTML5, ARIA labels, keyboard navigation, reduced motion support
+Responsive	Mobile-first breakpoints for desktop, tablet, mobile, and fold devices
